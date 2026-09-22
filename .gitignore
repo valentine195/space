@@ -1,0 +1,10 @@
+# Rust build artifacts
+/target/
+
+# rust-analyzer and editor-local metadata
+/.direnv/
+
+# Local environment overrides
+.env
+.env.*
+!.env.example
